@@ -1,0 +1,16 @@
+# binary files
+bin/
+
+# temp files
+*~
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# lib
+lib/
+
+# twitter4j settings
+twitter4j.properties
